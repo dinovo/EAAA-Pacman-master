@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EAAA PacMan</string>
+    <string name="points">Points: 0</string>
+    <string name="action_restart">Restart</string>
+    <string name="action_pause">Pause</string>
+    <string name="time">Time: 60</string>
+
+</resources>
